@@ -4,9 +4,9 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 export default {
     logo: <span>Iot_docs</span>,
     project: {
-        link: null,
+        link: 'https://www.github.com',
     },
-    docsRepositoryBase: null,
+    docsRepositoryBase: 'https://www.caiths.com',
     useNextSeoProps() {
         return {
             titleTemplate: '%s – Iot_docs'
