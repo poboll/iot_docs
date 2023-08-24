@@ -8,7 +8,7 @@ export default {
     // project: {
     //     link: 'https://www.github.com',
     // },
-    docsRepositoryBase: 'https://iot-docs.caiths.com',
+    docsRepositoryBase: 'https://www.caiths.com',
     useNextSeoProps() {
         const { asPath } = useRouter()
         if (asPath !== '/') {
