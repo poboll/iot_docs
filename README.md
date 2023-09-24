@@ -65,16 +65,16 @@ EasyIot.WinApp：终端程序（账号：13100110011 密码：5625）
 ## 测试用例
 
 Http测试
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1107/191651_d6db6c1a_1779965.png "2.png")
+![](https://images.gitee.com/uploads/images/2021/1107/191651_d6db6c1a_1779965.png "2.png")
 
 串口测试（安装虚拟串口工具，点击 串口测试，用串口工具反馈信息）
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1107/191717_bc618c12_1779965.png "3.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1107/191732_043f438c_1779965.png "4.png")
+![](https://images.gitee.com/uploads/images/2021/1107/191717_bc618c12_1779965.png "3.png")
+![](https://images.gitee.com/uploads/images/2021/1107/191732_043f438c_1779965.png "4.png")
 
 SOCKET测试
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1107/191752_ad3014c1_1779965.png "5.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1107/191807_f80023ca_1779965.png "6.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1107/191829_ed48e5e4_1779965.png "7.png")
+![](https://images.gitee.com/uploads/images/2021/1107/191752_ad3014c1_1779965.png "5.png")
+![](https://images.gitee.com/uploads/images/2021/1107/191807_f80023ca_1779965.png "6.png")
+![](https://images.gitee.com/uploads/images/2021/1107/191829_ed48e5e4_1779965.png "7.png")
 
 其他功能
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/1107/191841_210b11a8_1779965.png "8.png")
